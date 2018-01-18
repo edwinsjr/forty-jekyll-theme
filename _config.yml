@@ -1,8 +1,8 @@
 # site settings
-title: Standard not standard
-subtitle: Construction prefab at scale
+title: Standard
+subtitle: not standard
 email: eddie.sellers.jr@gmail.com
-description: Implementing faster and more efficient construction prefabrication technology that scales with how we actually build.
+description: Construction prefab at scale.
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "edwinsjr.github.io/site" # the base hostname & protocol for your site
 author: Edwin Sellers Jr.
