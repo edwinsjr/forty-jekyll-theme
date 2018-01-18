@@ -1,17 +1,17 @@
 # site settings
-title: Standardize the unstandardizable
-subtitle: Intersecting design and prefabrication.
+title: Standard not standard
+subtitle: Construction prefab at scale
 email: eddie.sellers.jr@gmail.com
-description: Construction prefabrication for scale.
+description: Implementing faster and more efficient construction prefabrication technology that scales with how we actually build.
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "edwinsjr.github.io/site" # the base hostname & protocol for your site
 author: Edwin Sellers Jr.
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 3132 Washing St.
+city: San Francisco
+state: CA
+zip_code: 94115
 country: United States of America
-phone: (716) 555-5555
+phone: (xxx) 555-5555
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
